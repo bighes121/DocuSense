@@ -1,0 +1,12 @@
+torch>=2.0
+transformers>=4.38
+scikit-learn>=1.4
+seqeval>=1.2
+streamlit>=1.40
+pandas
+numpy
+scipy
+joblib
+matplotlib
+pypdf
+playwright   # uniquement pour demo_screens.py

@@ -1,0 +1,10 @@
+CONTRAT DE LICENCE DE LOGICIEL EN MODE SaaS
+
+Le présent accord est conclu le 2 février 2026 entre Nuvola Data Systems SAS, dont le siège est à Lyon, représentée par sa présidente Margaux Delorme (le « Fournisseur »), et Tifawin Logistique SA, établie à Tanger, représentée par Yassine Bakkali (le « Client »).
+
+Article 1 – Objet. Le Fournisseur concède au Client un droit d'accès non exclusif et non cessible à la plateforme de pilotage des flux logistiques, pour 120 utilisateurs.
+Article 2 – Durée. La licence est accordée pour vingt-quatre mois à compter du 1er mars 2026, renouvelable par tacite reconduction.
+Article 3 – Prix. Le Client s'acquitte d'un abonnement de 4 800 euros par mois, révisable chaque année dans la limite de 3 %.
+Article 4 – Propriété. Le code source demeure la propriété exclusive de Nuvola Data Systems.
+Article 5 – Litiges. À défaut d'accord amiable, compétence est attribuée au tribunal de commerce de Paris.
+Référence interne : NDS-LIC-2026-044.

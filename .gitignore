@@ -1,0 +1,22 @@
+# Environnements et caches
+.venv/
+__pycache__/
+*.pyc
+.hf/
+.pipcache/
+.npmcache/
+node_modules/
+package-lock.json
+
+# Poids des modèles (recréés par train_*.py)
+models/
+*.pt
+*.safetensors
+
+# Journaux d'entraînement
+*.log
+*.err
+
+# Copies du rapport à la racine (la version suivie est dans results/)
+/Rapport_DocuSense.docx
+/Rapport_DocuSense.pdf

@@ -1,0 +1,9 @@
+Extraction d'entités nommées dans les documents administratifs arabes et français
+
+Salma Ait Brahim, Kamal Ezzahraoui, Hélène Marchand
+ENSIASD, Université Ibn Zohr, Taroudant — Laboratoire LIRIS, Lyon
+
+Résumé. Les documents administratifs bilingues posent des difficultés particulières aux systèmes de reconnaissance d'entités nommées. Nous proposons un modèle fondé sur un encodeur multilingue affiné sur 8 000 documents annotés manuellement. Sur notre jeu d'évaluation, l'approche atteint un F1 de 91,2 %, soit un gain de 6,4 % par rapport à un CRF classique.
+Les expériences ont été menées sur la grappe de calcul de HPC-MARWAN.
+Ce travail a bénéficié du soutien du Centre National pour la Recherche Scientifique et Technique (convention CNRST-PPR-2024-19).
+Soumis le 3 mars 2026, révisé le 20 mai 2026.
